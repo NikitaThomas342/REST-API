@@ -1,0 +1,23 @@
+[{
+        "name": "คามาโด ทันจิโร",
+        "imageLink": "assets/images/kamado.jpg",
+        "gender": "ชาย"
+    },
+    {
+        "name": "คามาโด เนซึโกะ",
+        "imageLink": "assets/images/Nezuko.png",
+        "gender": "หญิง"
+    },
+    {
+        "name": "อากาสึมะ เซ็นนิตสึ",
+        "imageLink": "assets/images/Zenitsu.jpg",
+        "gender": "ชาย"
+
+    },
+    {
+        "name": "ฮาชิบิระ อิโนสึเกะ",
+        "imageLink": "assets/images/Inosuke.png",
+        "gender": "ชาย"
+    }
+]
+
